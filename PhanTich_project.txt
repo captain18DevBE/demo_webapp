@@ -1,0 +1,26 @@
+Thực hành số 1:
+
+1. Phân tích dự án.
+    1. Header
+    2. Slider
+    3. Content:
+        + About Information.
+        + Tour.
+        + Contact
+        + Image
+        + Footer
+    Footer
+2. Dựng base.
+3. Xây dựng từng phần theo phân tích.
+4. Hoàn thiện.
+
+Những thành phần trên giao diện website:
+
+1. Header
+2. Navigation (Điều hướng)
+3. Breadcrumb
+4. Sidebar.
+5. Slider.
+6. Content(Nội dung chính)
+7. Footer (Chân trang)
+8. Banner

@@ -1,4 +1,4 @@
-Thực hành số 1:
+Thực hành số 1: Tran Le Duy
 
 1. Phân tích dự án.
     1. Header
